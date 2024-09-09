@@ -1,10 +1,10 @@
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Graduation Project
+subtitle: 'Team members: Jingtao Dun, Chengyu Kang, Junyang Xiong   Instructor: Xiaobang Wang'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do Jineiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
