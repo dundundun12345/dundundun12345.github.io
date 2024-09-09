@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do Jineiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1725853333627_R&pv=&ic=0&nc=1&z=0&hd=0&latest=0&copyright=0&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&dyTabStr=&ie=utf-8&sid=&word=%E5%A3%81%E7%BA%B8%E7%A7%91%E6%8A%80
+ https://console.cloudinary.com/pm/c-6c8b6b7a625fb99e89bd7164e244d1/media-explorer?assetId=ae4baca052e3f7df5f62ba38d137f417
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
