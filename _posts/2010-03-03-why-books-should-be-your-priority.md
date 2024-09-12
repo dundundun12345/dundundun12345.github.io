@@ -1,7 +1,7 @@
 ---
 date: 2024-9-11 12:26:40
 layout: post
-title: Week 1
+title: Week1.
 subtitle: The formation of the group.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
