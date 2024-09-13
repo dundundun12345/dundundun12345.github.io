@@ -9,7 +9,7 @@ description: >-
 image: >-
   https://res.cloudinary.com/djrrxybu1/image/upload/v1726190211/bnarpxg514dhqujiysw6.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://res.cloudinary.com/djrrxybu1/image/upload/v1726190211/bnarpxg514dhqujiysw6.jpg
 category: blog
 tags:
   - welcome
@@ -17,7 +17,7 @@ tags:
 author: mranderson
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Our graduation project is a screw propulsion car. The design inspiration comes from the former Soviet Union ZIL4904 all-terrain vehicle, the advantage of this spiral propulsion vehicle is that the driving ability is very prominent under bad road conditions, and it is very suitable for driving in snow, swamps, beaches, jungles and other places. Because the spiral "roller" below the body is hollow, it can also travel on water, which can be said to be amphibious. However, once the ground is leveled, this vehicle will become confused, easily destroy the road, or quickly wear bald threads.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
