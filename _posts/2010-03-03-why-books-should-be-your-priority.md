@@ -4,8 +4,8 @@ layout: post
 title: Week1.
 subtitle: The formation of the group.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+image: https://res.cloudinary.com/djrrxybu1/image/upload/v1726192045/gafy5zmyuydpucy5gqfi.jpg
+optimized_image: https://res.cloudinary.com/djrrxybu1/image/upload/v1726192045/gafy5zmyuydpucy5gqfi.jpg
 category: life
 tags:
   - books
@@ -14,7 +14,7 @@ author: mranderson
 paginate: true
 ---
 
-On Wednesday, September 11th, we met with Mr. Wang Xiaobang. Under his guidance, we determined our research direction for the screw propulsion vehicle
+On Wednesday, September 11th, we met with Mr. Wang Xiaobang. Under his guidance, we determined our research direction for the screw propulsion vehicle. After discussion,Junyang Xiong was responsible for the frame (chassis and superstructure, used to hold various parts),Chengyu Kang was responsible for the transmission (gears and spiral tubes), and Jingtao Dun was responsible for the control (Raspberry PI, battery and motor).
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
